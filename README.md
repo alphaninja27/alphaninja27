@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with ...Dev Ops,Ethical Hacking
 - 💬 Ask me about ...GCP,Data Science
 - ⚡ Fun fact: ...I speak less, do more.
-
+- 📫 How to reach me ...www.linkedin.com/in/armaan-nayyar-5776a4206
