@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://media-exp1.licdn.com/dms/image/C4D16AQHkq9UiAfGn4g/profile-displaybackgroundimage-shrink_350_1400/0/1635861310977?e=1647475200&v=beta&t=mIzKOkPnwr9OmUDstrhSVX8mkntdEpZ_dn2h-8aSkdE
+### I am ARMAAN NAYYAR
 
 - 🔭 I’m currently working on ...Myself
 - 🌱 I’m currently learning ...Data Science, AI,ML,Python,GCP,CSS
