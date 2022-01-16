@@ -14,6 +14,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alphaninja27)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaninja27)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=alphaninja27)
 
 <h3 align="left">Languages and Tools:</h3>
