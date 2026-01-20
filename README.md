@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-![MasterHead](https://github.com/alphaninja27/alphaninja27/blob/main/linkedin-cover-fellow-fa9a-v1.jpg)
 
-### I am ARMAAN NAYYAR
+### I am AlphaNinja27
 
 - 🔭 I’m currently working on ...Myself
-- 🌱 I’m currently learning ...Data Science, AI,ML,Python,GCP,CSS
-- 👯 I’m looking to collaborate on ...Python Projects,Web Dev,Data Science Projects
-- 🤔 I’m looking for help with ...Dev Ops,Ethical Hacking
-- 💬 Ask me about ...GCP,Data Science, MySql, MS Excel, Django
+- 👯 I’m looking to collaborate on ...Web Dev
 - ⚡ Fun fact: ...I speak less, do more.
-- 📫 How to reach me ...www.linkedin.com/in/armaan-nayyar-5776a4206
+- 📫 How to reach me ...sabujupitervolcano@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alphaninja27)](https://github.com/anuraghazra/github-readme-stats)
 
