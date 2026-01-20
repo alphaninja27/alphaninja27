@@ -8,8 +8,6 @@
 - ⚡ Fun fact: ...I speak less, do more.
 - 📫 How to reach me ...sabujupitervolcano@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alphaninja27)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaninja27)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=alphaninja27)
