@@ -4,7 +4,7 @@
 ### I am AlphaNinja27
 
 - 🔭 I’m currently working on ...Myself
-- 👯 I’m looking to collaborate on ...Web Dev
+- 👯 I’m looking to collaborate on ...Freelance Dev
 - ⚡ Fun fact: ...I speak less, do more.
 - 📫 How to reach me ...sabujupitervolcano@gmail.com
 
